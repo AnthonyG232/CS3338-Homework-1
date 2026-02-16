@@ -1,3 +1,17 @@
+commit 573223e37c7f9f2c433ae0336dc491e8849ac90c
+Author: Anthony Gallardo <agalla66@calstatela.edu>
+Date:   Sun Feb 15 22:02:19 2026 -0800
+
+    Changed Groupmate
+    
+    They never filled in the information , so i took their info for when i did theirs
+
+commit 9acdc3954f113ed500e5a87fbc2c95476dc6da1f
+Author: Anthony Gallardo <agalla66@calstatela.edu>
+Date:   Fri Feb 13 13:13:44 2026 -0800
+
+    Create git_log.txt
+
 commit dcd2e6fe7e627a4ec84da87330c63f699235fdb4
 Merge: b827038 1e8650e
 Author: Anthony Gallardo <agalla66@calstatela.edu>
